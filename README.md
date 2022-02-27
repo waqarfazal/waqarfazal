@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waqarfazal
-- 👀 I’m interested in Full-stack Web Development, Hybrid Mobile Development, Artificial Intelligence and UI UX.
+- 👀 I’m Experienced in Full-stack Web Development, Hybrid Mobile Development, Artificial Intelligence and UI UX.
 - 🌱 I’m currently learning Full Stack JavaScript
 - 📫 Read more about me [My Portfolio](https://www.waqarfazal.com)
 
