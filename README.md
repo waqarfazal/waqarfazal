@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @waqarfazal
-- 👀 I’m Experienced in Full-stack Web Development, Hybrid Mobile Development, Artificial Intelligence and UI UX.
-- 🌱 I’m currently learning Full Stack JavaScript
+- 👀 I’m a Software Engineer. Experienced in Full-stack Web Development, Hybrid Mobile Development, Artificial Intelligence and UI UX.
 - 📫 Read more about me [My Portfolio](https://www.waqarfazal.com)
 
 <!---
