@@ -29,7 +29,10 @@ What sets me apart is **ownership** — I don’t just build features. I design 
 [Portfolio & Live Projects → https://waqarfazal.com](https://waqarfazal.com)
 
 **Connect with me:**  
-[LinkedIn → linkedin.com/in/waqarfazal](https://www.linkedin.com/in/waqarfazal)
+- **LinkedIn** → [linkedin.com/in/waqarfazal](https://www.linkedin.com/in/waqarfazal)
+- **Email** → waqarfazal268@gmail.com
+- **Phone / WhatsApp** → [+923047739558](https://wa.me/923047739558)
+- **Schedule a meeting** → [https://calendly.com/waqarfazal268/meet-with-waqar](https://calendly.com/waqarfazal268/meet-with-waqar)
 
 ---
 
