@@ -1,27 +1,36 @@
 # Hi, I'm Waqar Fazal 👋
 
-**Full-Stack & AI Engineer** | Building production AI products from 0 to 1
+**Full-Stack & AI Engineer** | Building and shipping production systems — from real-time web applications to end-to-end LLM pipelines.
 
-I design and ship scalable web applications and intelligent systems. Currently **Founding Engineer** at Bitaura, where I built and launched:
+Over the past 6+ years, I’ve worked across startups, global clients, and AI research teams — delivering end-to-end products and leading engineering efforts on production-scale systems. I specialize in turning ideas into scalable, high-impact products with real users.
 
-- **[LearnPrime](https://learnprime.ai)** — AI-powered learning platform with custom RAG pipeline (document processing, semantic search, multi-LLM integration)
-- **[TypingFlash](https://typingflash.com)** — Gamified real-time typing platform with analytics, leaderboards & certifications
+### Current Role – Founding Engineer @ Bitaura (July 2025 – Present)
+I build AI-powered platforms from 0 → 1. Key projects include:
 
-### What I build with
-**Frontend:** Next.js • TypeScript • Tailwind • React Native  
-**Backend & AI:** FastAPI • Appwrite (self-hosted) • Vercel AI SDK • OpenAI embeddings • Upstash Vector/Redis • RAG architectures  
-**Other:** Python • Docker • VPS management • LLM pipelines • Cost optimization
+- **[LearnPrime](https://learnprime.ai)** — An AI-powered learning platform that transforms uploaded course material into interactive study tools (flashcards, quizzes, charts, summaries, notes, and more) using custom **RAG pipelines**, OpenAI embeddings, vector databases, and multi-LLM integration.
+- **[TypingFlash](https://typingflash.com)** — A real-time gamified typing platform featuring WPM tests, structured touch-typing lessons, analytics dashboard, leaderboards, achievements, and verifiable certificates.
 
-### Featured Projects
-- **LearnPrime** → Full RAG system + infrastructure migration (Firebase → self-hosted Appwrite) that significantly reduced costs
-- **TypingFlash** → Real-time features + gamification on self-hosted backend
-- University Capstone: **SelfDerm** — AI skin disease diagnosis mobile app (85%+ accuracy, 18+ conditions)
+**Tech across the full stack:**
+- **Frontend**: Next.js, TypeScript, Tailwind CSS
+- **Backend & APIs**: FastAPI, Node.js, scalable REST/GraphQL
+- **AI & ML**: LLM integrations (Vercel AI SDK), RAG architectures, custom context pipelines, embeddings
+- **Infrastructure**: Self-hosted Appwrite on VPS, Firebase migrations, cost-optimized AI backends
 
-### Let's connect
-- **Portfolio & Live Demos:** [waqarfazal.com](https://www.waqarfazal.com)
-- **LinkedIn:** [linkedin.com/in/waqarfazal](https://www.linkedin.com/in/waqarfazal)
-- **Email:** waqarfazal268@gmail.com
+### Previous Experience
+I worked with **OpenAI (contract via Turing, 2022–2025)** as an RLHF expert in Software Engineering and ML/DL. I contributed to production-scale LLM systems (including features powering ChatGPT), improved model quality and robustness, analyzed edge cases, and led a team of 10+ engineers while onboarding and mentoring 100+ contributors.
 
-Currently open to **Full-Stack AI Engineer**, **LLM Platform Engineer**, or **Founding Engineer** roles.
+Earlier, as an independent freelancer, I delivered 10+ end-to-end full-stack and ML-powered projects for clients across 3+ countries.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqarfazal&show_icons=true&theme=radical)
+What sets me apart is **ownership** — I don’t just build features. I design systems, make architectural trade-offs, optimize costs (e.g., migrating from Firebase to self-hosted infrastructure), and ship products that perform reliably in production.
+
+---
+
+**Check out my work:**  
+[Portfolio & Live Projects → https://waqarfazal.com](https://waqarfazal.com)
+
+**Connect with me:**  
+[LinkedIn → linkedin.com/in/waqarfazal](https://www.linkedin.com/in/waqarfazal)
+
+---
+
+If you're building something ambitious in AI, full-stack products, or LLM platforms and need someone who can take an idea from concept to live users — I’d love to connect!
