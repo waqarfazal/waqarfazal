@@ -51,3 +51,7 @@ What sets me apart is **ownership** — I don’t just build features. I design 
 ---
 
 If you're building something ambitious in AI, full-stack products, or LLM platforms and need someone who can take an idea from concept to live users — I’d love to connect!
+
+![Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqarfazal&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqarfazal&layout=compact&theme=radical&hide_border=true)
