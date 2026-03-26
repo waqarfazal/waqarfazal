@@ -1,4 +1,4 @@
-# Hi, I'm Waqar Fazal 👋
+# Hi 👋, I'm Waqar Fazal
 
 **Full-Stack & AI Engineer** | Building and shipping production systems — from real-time web applications to end-to-end LLM pipelines.
 
