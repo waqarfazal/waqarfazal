@@ -11,10 +11,24 @@ I build AI-powered platforms from 0 → 1. Key projects include:
 - **[TypingFlash](https://typingflash.com)** — A real-time gamified typing platform featuring WPM tests, structured touch-typing lessons, analytics dashboard, leaderboards, achievements, and verifiable certificates.
 
 **Tech across the full stack:**
-- **Frontend**: Next.js, TypeScript, Tailwind CSS
-- **Backend & APIs**: FastAPI, Node.js, scalable REST/GraphQL
-- **AI & ML**: LLM integrations (Vercel AI SDK), RAG architectures, custom context pipelines, embeddings
-- **Infrastructure**: Self-hosted Appwrite on VPS, Firebase migrations, cost-optimized AI backends
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Previous Experience
 I worked with **OpenAI (contract via Turing, 2022–2025)** as an RLHF expert in Software Engineering and ML/DL. I contributed to production-scale LLM systems (including features powering ChatGPT), improved model quality and robustness, analyzed edge cases, and led a team of 10+ engineers while onboarding and mentoring 100+ contributors.
