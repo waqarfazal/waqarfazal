@@ -31,7 +31,7 @@ I build AI-powered platforms from 0 → 1. Key projects include:
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Previous Experience
-I worked with **OpenAI (contract via Turing, 2022–2025)** as an RLHF expert in Software Engineering and ML/DL. I contributed to production-scale LLM systems (including features powering ChatGPT), improved model quality and robustness, analyzed edge cases, and led a team of 10+ engineers while onboarding and mentoring 100+ contributors.
+I worked with **Turing (for an AI/LLM research company, 2022–2025)** as an RLHF expert in Software Engineering and ML/DL. I contributed to production-scale LLM systems (including features powering LLMs like browser, image generation, coding problems, data analysis etc), improved model quality and robustness, analyzed edge cases, and led a team of 10+ engineers while onboarding and mentoring 100+ contributors.
 
 Earlier, as an independent freelancer, I delivered 10+ end-to-end full-stack and ML-powered projects for clients across 3+ countries.
 
