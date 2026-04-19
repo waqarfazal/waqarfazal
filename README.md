@@ -10,6 +10,15 @@ I build AI-powered platforms from 0 → 1. Key projects include:
 - **[LearnPrime](https://learnprime.ai)** — An AI-powered learning platform that transforms uploaded course material into interactive study tools (flashcards, quizzes, charts, summaries, notes, and more) using custom **RAG pipelines**, OpenAI embeddings, vector databases, and multi-LLM integration.
 - **[TypingFlash](https://typingflash.com)** — A real-time gamified typing platform featuring WPM tests, structured touch-typing lessons, analytics dashboard, leaderboards, achievements, and verifiable certificates.
 
+### Previous Experience
+I worked with **Turing (for an AI/LLM research company, May 2022 – Dec 2023)** as an RLHF expert in Software Engineering and ML/DL. I contributed to production-scale LLM systems (including features powering LLMs like browser, image generation, coding problems, data analysis etc), improved model quality and robustness, analyzed edge cases, and led a team of 10+ engineers while onboarding and mentoring 100+ contributors.
+
+Earlier, as an independent freelancer, I delivered 3+ end-to-end full-stack and ML-powered projects for clients across 3+ countries.
+
+What sets me apart is **ownership** — I don’t just build features. I design systems, make architectural trade-offs, optimize costs (e.g., migrating from Firebase to self-hosted infrastructure), and ship products that perform reliably in production.
+
+---
+
 **Tech across the full stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,15 +39,7 @@ I build AI-powered platforms from 0 → 1. Key projects include:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
-### Previous Experience
-I worked with **Turing (for an AI/LLM research company, May 2022 – Dec 2023)** as an RLHF expert in Software Engineering and ML/DL. I contributed to production-scale LLM systems (including features powering LLMs like browser, image generation, coding problems, data analysis etc), improved model quality and robustness, analyzed edge cases, and led a team of 10+ engineers while onboarding and mentoring 100+ contributors.
-
-Earlier, as an independent freelancer, I delivered 3+ end-to-end full-stack and ML-powered projects for clients across 3+ countries.
-
-What sets me apart is **ownership** — I don’t just build features. I design systems, make architectural trade-offs, optimize costs (e.g., migrating from Firebase to self-hosted infrastructure), and ship products that perform reliably in production.
-
 ---
-
 **Check out my work:**  
 [Portfolio & Live Projects → https://waqarfazal.com](https://waqarfazal.com)
 
